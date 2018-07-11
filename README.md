@@ -44,7 +44,7 @@ A list of awesome papers and cool resources on transfer learning, domain adaptat
 Papers are ordered by theme and inside each theme by publication date (submission date for arXiv papers). If the network or algorithm is given a name in a paper, this one is written in bold before the paper's name.
 
 ## Surveys
-
+* [A Literature Survey on Domain Adaptation of Statistical Classifiers] (http://www.mysmu.edu/faculty/jingjiang/papers/da_survey.pdf)(2008)
 * [A Survey on Transfer Learning](https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf) (2009)
 * [A Survey of transfer learning](https://link.springer.com/article/10.1186/s40537-016-0043-6) (2016)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/pdf/1702.05374.pdf) (2017)
